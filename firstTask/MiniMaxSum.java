@@ -4,7 +4,7 @@ public class MiniMaxSum {
 
     public static void miniMaxSum(int[] arr) {
 
-        long total = 0;`
+        long total = 0;` 
         int min = arr[0];
         int max = arr[0];
 
