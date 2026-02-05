@@ -2,6 +2,24 @@
 
 public class MiniMaxSum {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     public static void miniMaxSum(int[] arr) {
 
         long total = 0;` 
